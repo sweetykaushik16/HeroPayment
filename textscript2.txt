@@ -1,1 +1,6 @@
 this is my second script
+with my textcases data 
+1
+2
+3
+4
